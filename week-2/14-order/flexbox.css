@@ -2,9 +2,10 @@
   display: flex;
 }
 .countries--first .country--brazil {
-  order: 1;
+  order: -2;
 }
 .countries--second .country--croatia {
-  order: -1;
+  order: 2;
 }
+
 /* Add your own CSS code below continue later for brazil  */
